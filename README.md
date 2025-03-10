@@ -1,4 +1,3 @@
-
 # Extractor de Puertos y Servicios desde Nmap
 
 Este script en Bash permite extraer direcciones IP y puertos abiertos, así como los servicios asociados, desde un archivo de salida generado por Nmap. Organiza y presenta la información de manera clara y ordenada.
