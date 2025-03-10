@@ -18,7 +18,7 @@ Este script en Bash permite extraer direcciones IP y puertos abiertos, así como
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/extractor-nmap.git
+   git clone https://github.com/MethodWhite/extractor-nmap.git
    ```
 
 2. **Navegar al directorio del proyecto**:
