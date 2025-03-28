@@ -24,13 +24,13 @@ Este script en Bash permite extraer direcciones IP y puertos abiertos, así como
 2. **Navegar al directorio del proyecto**:
 
    ```bash
-   cd extractor-nmap
+   cd scanforge
    ```
 
 3. **Asignar permisos de ejecución al script**:
 
    ```bash
-   chmod +x extract_nmap.sh
+   chmod +x scanforge_nmap.sh
    ```
 
 ## Uso
@@ -38,7 +38,7 @@ Este script en Bash permite extraer direcciones IP y puertos abiertos, así como
 1. **Ejecutar el script**:
 
    ```bash
-   ./extract_nmap.sh ruta/al/archivo_nmap.xml
+   ./scanforge_nmap.sh ruta/al/archivo_nmap.xml
    ```
 
    Reemplaza `ruta/al/archivo_nmap.xml` con la ubicación de tu archivo de salida de Nmap.
